@@ -3,7 +3,7 @@
 <h2>👨‍💻 Java Projects:</h2>
 
 - <b> Basic Projects </b>
-  - [Random Number Game]([https://github.com/DoubleDully/Basic-Random-Number])
+  - [Random Number Game](https://github.com/DoubleDully/Basic-Random-Number)
 
 <h2> 🤳 Connections:</h2>
 
