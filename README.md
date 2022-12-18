@@ -1,4 +1,4 @@
-### Hi there 👋, Christopher Hudson
+### Christopher Hudson
 #### Beginner in Java 
 ![Beginner in Java ](https://media.licdn.com/dms/image/D5616AQGKSghu4a6sdg/profile-displaybackgroundimage-shrink_350_1400/0/1667429436597?e=1677110400&v=beta&t=Qog-dF0oaJtxuO9sZhAE1S_JUGqFtrDbdW8LAPfyIKs)
 
