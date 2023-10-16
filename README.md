@@ -6,13 +6,6 @@ Currently in the early stages of college. Trying to broaden my skills and get go
 
 - <b> Basic Projects </b>
   - [Random Number Game](https://github.com/DoubleDully/Basic-Random-Number)
-  - [Grade Calculator](https://github.com/DoubleDully/Basic-Grade-Calculation)
-
-
-- 🔭 I’m currently working on portfolio projects 
-
-- 🌱 I’m currently learning Java / SQL  
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DoubleDully)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrishudson23/)  
 
